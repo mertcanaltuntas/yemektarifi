@@ -6,7 +6,7 @@ patikadan aldığım eğitim bilgiler ile bir yemek tarifi sayfası oluşturdum.
 
 ## Ödev 3 Sonuç Görseli 
 
-![Resim](sonuc.jpg)
+![Resim](sonuc2.jpg)
 
 
 ---
